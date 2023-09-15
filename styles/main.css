@@ -94,7 +94,7 @@ body{
 .img-gallery img {
     width: 100%;
     cursor: pointer;
-    border: solid 1px red;
+    border: solid 2px black;
 }
 
 /* .img-gallery img:hover {
