@@ -97,6 +97,18 @@ body{
     border: solid 2px black;
 }
 
+
+.v {
+  text-align: center;
+  margin-top: 80px;
+}
+
+video {
+  width: 500px;
+  height: 300px;
+  border: solid 1px black;
+}
+
 /* .img-gallery img:hover {
     transform: scale(0.8) rotate(-15deg);
     border-radius: 20px;
